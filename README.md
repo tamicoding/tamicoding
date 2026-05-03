@@ -20,8 +20,8 @@ Gosto de desafios e estou em busca da minha primeira oportunidade como desenvolv
 ### 📚 BookNotes
 Aplicação full-stack para gerenciar livros, com login, CRUD e integração com APIs externas.
 
-🔗 Ver online: [(link do render)](https://book-notes-vvs0.onrender.com/) (Obs: pode demorar um pouco para carregar)  
-🔗 Repositório: [(link github)](https://github.com/tamicoding/book-notes)
+🔗 Ver online: [(Render)](https://book-notes-vvs0.onrender.com/) (Obs: pode demorar um pouco para carregar)  
+🔗 Repositório: [(Github)](https://github.com/tamicoding/book-notes)
 
 ---
 
@@ -39,5 +39,5 @@ Aplicação full-stack para gerenciar livros, com login, CRUD e integração com
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [(seu link)](https://www.linkedin.com/in/tamirisfreis/)
+- 💼 LinkedIn: [(Linkedin)](https://www.linkedin.com/in/tamirisfreis/)
 - 📧 Email: tamirisfr@live.com
