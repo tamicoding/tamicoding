@@ -1,8 +1,8 @@
 # 👋 Oi, eu sou a Tamiris!
 
-Desenvolvedora Web Júnior
-Construindo aplicações full-stack com Node.js, React e PostgreSQL
-Em evolução constante com foco em backend e Java
+- Desenvolvedora Web Júnior
+- Construindo aplicações full-stack com Node.js, React e PostgreSQL
+- Em evolução constante com foco em backend e Java
 
 ---
 
