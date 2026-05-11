@@ -8,10 +8,11 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonada por tecnologia e por transformar ideias em aplicações reais.  
-Já desenvolvi projetos full-stack com autenticação, banco de dados e integração com APIs.
+Desenvolvedora Full Stack Júnior focada em JavaScript, Node.js, React e PostgreSQL.
 
-Gosto de desafios e estou em busca da minha primeira oportunidade como desenvolvedora.
+Gosto de transformar ideias em aplicações reais e funcionais, principalmente projetos voltados para lógica, back-end, integração de APIs e banco de dados. Já desenvolvi aplicações full stack com autenticação, testes automatizados, deploy e integração com serviços externos.
+
+Atualmente busco minha primeira oportunidade como desenvolvedora, enquanto continuo evoluindo através de projetos práticos e estudos constantes.
 
 ---
 
