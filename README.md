@@ -1,44 +1,30 @@
-# 👋 Oi, eu sou a Tamiris!
+# Tamiris | Desenvolvedora Full Stack
 
-- Desenvolvedora Web Júnior
-- Construindo aplicações full-stack com Node.js, React e PostgreSQL
-- Em evolução constante com foco em backend e Java
+Desenvolvedora Full Stack em formação, com foco em ecossistema JavaScript/TypeScript, construção de APIs RESTful e modelagem de bancos de dados relacionais. Apaixonada por resolver problemas de lógica e estruturar back-ends eficientes.
 
 ---
 
-## 🧠 Sobre mim
+### Tecnologias e Ferramentas
 
-Desenvolvedora Full Stack Júnior focada em JavaScript, Node.js, React e PostgreSQL.
-
-Gosto de transformar ideias em aplicações reais e funcionais, principalmente projetos voltados para lógica, back-end, integração de APIs e banco de dados. Já desenvolvi aplicações full stack com autenticação, testes automatizados, deploy e integração com serviços externos.
-
-Atualmente busco minha primeira oportunidade como desenvolvedora, enquanto continuo evoluindo através de projetos práticos e estudos constantes.
-
----
-
-## 🚀 Projeto em destaque
-
-### 📚 BookNotes
-Aplicação full-stack para gerenciar livros, com login, CRUD e integração com APIs externas.
-
-🔗 Ver online: [(Render)](https://book-notes-vvs0.onrender.com/) (Obs: pode demorar um pouco para carregar)  
-🔗 Repositório: [(Github)](https://github.com/tamicoding/book-notes)
+- **Linguagens:** JavaScript (ES6+), TypeScript, Java (estudando)
+- **Back-end:** Node.js, Express, REST APIs, Autenticação (JWT/OAuth)
+- **Front-end:** React.js, HTML5, CSS3
+- **Bancos de Dados:** PostgreSQL, SQL
+- **Ferramentas:** Git, GitHub, Docker, Postman/Insomnia
 
 ---
 
-## 🛠️ Tecnologias
+### Projeto em Destaque
 
-- JavaScript (ES6+)
-- Node.js
-- Express
-- PostgreSQL
-- React
-- APIs REST
-- Git & GitHub
+#### [BookNotes](https://github.com/tamicoding/book-notes)
+Aplicação full-stack desenvolvida para gerenciamento de leitura e anotações de livros.
+- **Back-end:** Node.js, Express e PostgreSQL
+- **Funcionalidades:** Autenticação de usuários, operações CRUD completas e integração com APIs externas.
+- **Deploy:** [Acessar demonstração online](https://book-notes-3scf.onrender.com)
 
 ---
 
-## 📫 Contato
+### Contato e Redes
 
-- 💼 LinkedIn: [(Linkedin)](https://www.linkedin.com/in/tamirisfreis/)
-- 📧 Email: tamirisfr@live.com
+- LinkedIn: [linkedin.com/in/tamirisfreis](https://www.linkedin.com/in/tamirisfreis/)
+- E-mail: tamirisfr@live.com
